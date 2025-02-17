@@ -1,0 +1,7 @@
+train: /home/mzc/Yolov11/ultralytics-8.3.74/images/train  # train images (relative to 'path') 4 images
+val: /home/mzc/Yolov11/ultralytics-8.3.74/images/val  # val images (relative to 'path') 4 images
+
+nc: 2
+
+# class names
+names: ['Car','Person']
